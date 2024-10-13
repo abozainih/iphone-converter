@@ -1,0 +1,14 @@
+{
+  "name": "mp4-iphone-converter",
+  "version": "1.0.0",
+  "description": "makes mp4 compatible with iphone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AbdulRahman AboZainih",
+  "license": "ISC",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.3"
+  }
+}
